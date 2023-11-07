@@ -4,7 +4,7 @@ function App() {
   return (
     <>
   
-<Navbar title="TEXTUTILS"/>
+<Navbar title="TEXTUTILS" aboutText ="About Texttils"/>
   </>
   );
 }
